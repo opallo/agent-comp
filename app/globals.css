@@ -1,0 +1,7 @@
+/* globals.css */
+body {
+  background-color: black; /* Set background to black */
+  color: white; /* Optional: Set text color to white for better contrast */
+  margin: 0; /* Remove default margin */
+  font-family: sans-serif; /* Optional: Set a default font */
+}
